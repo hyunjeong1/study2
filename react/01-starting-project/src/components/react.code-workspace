@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../skeleton-project"
+		},
+		{
+			"path": "../../../../lecture"
+		}
+	],
+	"settings": {}
+}
